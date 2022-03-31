@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </a>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=ValentinKhmer&hide_title=true&show_icons=true&title_color=5271FF&icon_color=5271FF&hide_border=true&theme=github_dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=ValentinKhmer&hide_title=true&show_icons=true&title_color=5271FF&icon_color=5271FF&hide_border=true&theme=nord">
     <br>
     <a href="https://www.youtube.com/channel/UCDz-QSDokUOYlVmsZRVaeEA">
         <img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube">
