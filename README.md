@@ -1,41 +1,33 @@
-<h1 align="center">
-    <a href="https://github.com/ValentinKhmer">
-        💻 ValentinKhmer
-        </a>
-    </h1>
-<p align="center">
-    <img src="https://img.shields.io/badge/-French-4762DA?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAACmAAAApgHdff84AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAIRQTFRF////////////qqrV/6qqn5+//5+fmZnM/6amlZrG+5qj3Nzq+N/f9fX19fX1io6/+4+VhIe8/IqQg4a8/ImPfIC5+4OJ9fX19fX19fX19fX1cna0/HmBbnKx/XR8aGyu/W93U1mk/lxlQUebRkyepqnNp6nO9fX1+aqv+auv/lBa/0tVMhBN4gAAACN0Uk5TAAIDBgYICBQUOjpISGRnkJCoqKurwcHFxs/R3Nzk5Ozs/Pzx1ZlhAAAAf0lEQVQoz2NggAEmPglxXkYGDMAtpQ4EkjxowpyyaupgoCnHhSTMLqqirAqR0NDWEuOAifMrKisjJLS1lQTAwszyysqoEtraCmxACUFlTAltEaCENDYJmZEgIYxNQggowYotEFnwBTueiMIdteDEIAkSl+LBTCaMvOISfExwLgDAUjuT7SClxwAAAABJRU5ErkJggg==">
-    <img src="https://img.shields.io/badge/-Cambodian-4762DA?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAACmAAAApgHdff84AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAALdQTFRF////gACAgICAjkeAnEdxmU1znEpznEt6m0l2m0l7lEd8lUl9jEl+jUmAjEiAi0mAqkl0q0p1iUmBiUiA/0tUpkl2pEl2gEmDgEmEckmJcUiJZkiNZEiOX0iPVUeUU0iVVEeUVEiUQUebR0eYgkiDg0iD9e7v9fDx9fLy9fX19uDi9uTl9ubn9uzt99LU+MrM+pme+p6j/HZ9/IOK/ISK/W93/lZf/ldg/lhh/0tV/0xW/09Z/1JbasIbFQAAACJ0Uk5TAAIEEhIUHyw4OGtskpOUlpaXnqCgsbPAweHi8PL2+/z8/FW3LmQAAAC/SURBVCiRbZJHFoJAEERLzGKOCJgGBdpEUIFB738uN6AMzF/Wf7XpaiBHmZnmVEEFdcMYYxu1FHd1lqF3C3FTs9gPS2vkef/ABLZDAEDbYBWMFoDlScICwJxLmAvi85GJmPMg4Dwui8c9fV8u7/T+KAmPXiFR+CJPFJFLtk1k2+RGYuNMGWex4Tu5cPyiSG7045YUxPNa4JmJyVHCGEBddsQ6AGC0E+P9oCYdatWUTrvulFbvyZ8BgDI1zdn/fb7CK0J2/SOIcAAAAABJRU5ErkJggg==">
-    <br>
+<h1>
+  Hi there, I'm <a href="https://github.com/ValentinKhmer">Valentin</a> <img src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif" width="25">
+</h1>
+<div>
+  <div>
+    <p>
+    An <strong>IT student-engineer</strong> based in France.
+    </p>
+    <p>
+    I mainly develop web applications and video games, looking to improve my skills and create fun projects.
+    </p>
+    <p>
+    Besides coding, I'm also a Minecraft <img src="https://cdn3.emoji.gg/emojis/9477-minecraft.gif" width="14"/> and Genshin Impact <img src="https://cdn3.emoji.gg/emojis/5579-primogem.png" width="14"/> player, and manga-anime enthusiast.
+    </p>
+  </div>
+  <div style="display: flex; gap: 0.5em;">
+    <a href="https://epita.fr/">
+      <img src="https://img.shields.io/badge/EPITA-181818?style=for-the-badge&labelColor=102b65&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAWCAYAAAChWZ5EAAAACXBIWXMAAAsSAAALEgHS3X78AAABEUlEQVR42sVVwQ3CMAz0LizKFszECHnw4NEXE1QRdamUIPew3Ti0EOlUNW1y54sdE3UMZl5h659dh9j49ELSiMTcsJsIiDoJEAoR5BW7kV+APIEgJB6+csGJ2kIuQAHnsIAgsSS3RBwS9agQWyK2jwGINSH4zuU9K0lIipBQ1OQk3PKcCgiiJsUJuyQdu625u9iUGwRIN64fIpyztlzJgngKCKjzaSUi4ECG854aHCBYkzFATwQpJUbC+ogATMo3h5cL2sJK3isAXUhulzMEPAu2qmB53oxvDysZsZFgOTE4UJEDF5J+JziNZABydIAbCf0G5dhfMTqgXrT2Bnn3j1rJHjYM5f8R4N0ZPx2KG917zQW5mAcCdHQpAAAAAElFTkSuQmCC">
+    </a>
+    <!-- <a href="https://www.skku.edu/">
+      <img src="https://img.shields.io/badge/Sungkyunkwan-181818?style=for-the-badge&labelColor=81bc3d&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDE0IDE0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPGcgdHJhbnNmb3JtPSJtYXRyaXgoLjA4NzYgMCAwIC4wODc2IC0uMDA0OTYgLTIuNjEpIiBmaWxsPSIjZmZmIj4KICA8cGF0aCBkPSJtMzguMyAxNjhhNjYuOSA2Ni45IDAgMCAxLTguNTYtOC45OWMtMTQuMi0xNS45LTMwLjQtNTcuNS0zLjU0LTk1LjNhNzguNSA3OC41IDAgMCAxIDEyMS04Ljg5IDMuMTEgMy4xMSAwIDAgMSAwLjE0NyA0LjQ4Yy0xLjYxIDEuMzUtMy4wNiAwLjY1NC02LjMxLTAuMjgzYTMzLjMgMzMuMyAwIDAgMC0xNC4xLTEuMmMtMTAuOCAxLjQtMjAuMiAxMS41LTE4LjkgMjUuNSAxLjIxIDEyLjggMTEuMSAyMi4xIDE4LjEgMjguMiAyNC40IDIxLjQgMTYuMyA0NC41IDE0LjMgNDkuNS02LjcyIDE3LjItMjQgMjkuMy00Ni40IDI5LjNhNjguOCA2OC44IDAgMCAxLTM2LjMtMTAuOWMtMC41Mi0wLjIzMS0xLjAzLTAuOTMtMC40MDItMi4wOGE3NC40IDc0LjQgMCAwIDEgNy4xOS0xMi40YzYuNzMgNy43NSAxOC4xIDE1IDMwLjcgMTUuNSAxNy4yIDAuNjA3IDI4LjMtOC43MiAzMi4zLTIwLjUgNC41NS0xMy4zLTAuMzI0LTI2LjgtMTMuMi0zOS0xMS4xLTEwLjUtMjEtMjAuMi0yMS42LTM2LjktMC43NTQtMjEuNCAxNy45LTM0LjEgMzUuMi0zMy4zIDAuNTIgMC4wMjUtMjQtMTcuNi01NS4zLTcuMDRhNjUuMSA2NS4xIDAgMCAwLTI4LjkgMTkuNCAxLjI2IDEuMjYgMCAwIDAtMC4wMTQ3IDEuNzNjMC40ODkgMC43IDExLjIgMTUuNiAxMS4yIDE1LjZsLTE5LjItNC40YTEuMTUgMS4xNSAwIDAgMC0xLjIgMC40NjZjLTYuMSAxMC42LTE1LjEgNDEuMSA1LjA5IDY4LjggMCAwIDE3LjEtMjcuMiA1MS4xLTI5LjUgMi4yNy0wLjE0NyAxLjk4IDAuNjU3IDAuNDkyIDEuMi0zMC40IDExLjItNDIuNCAzMy41LTUwLjEgNTAuN2ExLjY3IDEuNjcgMCAwIDEtMi43NiAwLjQ3M3oiLz4KICA8cGF0aCBkPSJtNTguNiAxNDdzMS45LTAuODQ5IDIuNDQtMS4xNWwwLjAxOTIgMTMuMmgyLjM5bC0wLjAyMjEtMTUuNS0wLjM4Ni0wLjI1Ni0wLjEyNCAwLjA2MDRhNzguNSA3OC41IDAgMCAxLTUuMDEgMi4yOXptMTIuNyA0LjI3YzEuOTMgMCAyLjg3IDAuOTkzIDIuODggMy4wNGEzLjE3IDMuMTcgMCAwIDEtMy4zMSAzLjQ1IDMuODIgMy44MiAwIDAgMS0yLjgtMS4zOWwtMC4yOTUtMC4zNDMtMC41NjkgMi4wNSAwLjE4NCAwLjA4N2E3LjU5IDcuNTkgMCAwIDAgMy40NCAwLjc5YzMuNCAwIDUuODctMi4wOCA1Ljg2LTQuOTNhMy41MiAzLjUyIDAgMCAwLTMuMjQtMy41OCAzLjkzIDMuOTMgMCAwIDAgMi41NC0zLjY1YzAtMi4xOC0xLjcyLTMuNTEtNC40Ny0zLjUyYTQuNTcgNC41NyAwIDAgMC0zLjUyIDEuNTJsMS4wMiAxLjc3IDAuMTcyLTAuNWEyLjQ0IDIuNDQgMCAwIDEgMi4yNC0xLjYxYzAuOTg0IDAgMi4xMyAwLjY0NyAyLjEzIDIuNDggMCAxLjQzLTAuMzkyIDMuMTMtMi4yNiAzLjEzbC0xLjI0LTAuMDk1OHYxLjQ2YTUuMzYgNS4zNiAwIDAgMSAxLjIzLTAuMTY0em04LjY0IDQuNiAwLjY0IDIuNTFhNS4xNiA1LjE2IDAgMCAwIDIuMzggMC41NjRjMy45OC0wLjAxOTIgNi43NS0zLjc0IDYuNzQtOS4wOSAwLTUuOTYtMy42NC02LjYtNS4yLTYuNTlhNC44NCA0Ljg0IDAgMCAwLTUuMTQgNC45NyA0LjI1IDQuMjUgMCAwIDAgNC41MyA0LjYzIDQuMDYgNC4wNiAwIDAgMCAzLjM1LTEuNmMtMC4xNTkgMy4zMy0xLjQ3IDYuMzctNC4xOSA2LjM5YTMuNTkgMy41OSAwIDAgMS0zLjEyLTEuNzh6bTQuMzMtNC4zMWMtMS42NyAwLTIuNDctMS4wOS0yLjQ4LTMuMzMgMC0yLjI2IDEuMDgtMy43OSAyLjY5LTMuNzkgMS42Mi0xZS0zIDIuNyAxLjI5IDIuNyAzLjIxIDNlLTMgMS45Mi0wLjk5NiAzLjktMi45MiAzLjl6bTE0LjktMS41NWEzLjU5IDMuNTkgMCAwIDAgMi4yMy0zLjI5YzAtMS42LTEuMTctMy40OC00LjQ2LTMuNDhhNC4wMSA0LjAxIDAgMCAwLTQuMzggMy43NSAzLjM2IDMuMzYgMCAwIDAgMi4yNCAzLjE0IDQuMzcgNC4zNyAwIDAgMC0zLjAxIDQuMjRjMCAyLjcyIDIuMDggNC41NSA1LjE3IDQuNTVhNC45NSA0Ljk1IDAgMCAwIDUuMTctNS4wNyAzLjgxIDMuODEgMCAwIDAtMi45NS0zLjg1em0tNC4zMy0yLjk5YzAtMC42MDcgMC4xNDctMi41OSAyLjEyLTIuNTkgMS45NCAwIDIuMTUgMS44MSAyLjE2IDIuNTggMCAwLjYwNy0wLjE0NyAyLjU5LTIuMTUgMi41OS0xLjk3IDNlLTMgLTIuMTItMS45OC0yLjEyLTIuNTh6bTIuMTEgMTAuN2MtMS42NCAwLTIuNzUtMS4zOS0yLjc1LTMuNDYtMWUtMyAtMi4wNyAxLjEtMy40NyAyLjc0LTMuNDcgMS42NC0zZS0zIDIuNzQgMS4zOSAyLjc0IDMuNDYgM2UtMyAyLjExLTEuMDcgMy40Ny0yLjczIDMuNDd6Ii8+CiA8L2c+Cjwvc3ZnPgo=">
+    </a> -->
+  </div>
+  <div style="display: flex; gap: 0.5em;">
     <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-        <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
     </a>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=ValentinKhmer&hide_title=true&show_icons=true&title_color=5271FF&icon_color=5271FF&hide_border=true&theme=nord">
-    <br>
-    <a href="https://www.youtube.com/channel/UCDz-QSDokUOYlVmsZRVaeEA">
-        <img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube">
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
     </a>
-    <a href="https://twitter.com/Valentin_Khmer">
-        <img src="https://img.shields.io/badge/Twitter-1d9bf0?style=flat&logo=twitter&logoColor=FFFFFF">
-    </a>
-    <br>
-    <a href="https://ko-fi.com/Y8Y2BKULD">
-        <img src="https://ko-fi.com/img/githubbutton_sm.svg">
-    </a>
-</p>
-
-<!--
-**ValentinKhmer/ValentinKhmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ValentinKhmer&hide_title=true&show_icons=true&title_color=5271FF&icon_color=5271FF&hide_border=true&theme=nord">
+</div>
