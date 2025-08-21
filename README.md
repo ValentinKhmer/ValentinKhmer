@@ -1,5 +1,5 @@
 <h1>
-  Hi there, I'm <a href="https://github.com/ValentinKhmer">Valentin</a> <img src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif" width="25">
+  Hi there, I'm <a href="https://github.com/ValentinKhmer">Valentin</a> <img src="https://cdn3.emoji.gg/emojis/2337-hutaopixelemotivegif.gif" width="40">
 </h1>
 <div>
   <div>
